@@ -1,19 +1,18 @@
 === Vorfolio ===
 Contributors: Jegstudio
-Requires at least: 5.9
-Tested up to: 6.1
+Requires at least: 6.5
+Tested up to: 6.9
 Requires PHP: 7.0
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-Vorfolio is a modern and responsive style theme template for WordPress fullsite editing and fully compatible with Gutenverse plugin. Vorfolio created especially for websites like CV/Resume to promote yourself and showcase your portfolios. Perfect for UI/UX Designer, Product Designer, Freelancer, Agency, Startup Business, and any online portfolio websites for companies or individuals that need a modern landing page for their business. The templates include both core version and Gutenverse plugin version, also has core and Gutenverse block patterns ready so you can start mix and match your template parts as you desire. The templates is built ready so you don't need to build it from scratch. We want to make your experience using WordPress fullsite editor more convenient.
-
+Vorfolio is a Personal Portfolio/ CV Resume WordPress Block Theme designed for professionals who want to create a modern and visually impressive online presence. Built with full site editing and powered by Gutenverse, this theme provides a flexible and elegant platform to showcase personal portfolios, career achievements, and professional experiences with a clean and professional layout. Whether you are building a personal brand or promoting your creative work, Vorfolio helps you present your skills and experience with clarity and confidence. It is ideal for freelancers, designers, developers, photographers, and job seekers looking to strengthen their online presence. With responsive layouts, customizable block patterns, and well-structured pages, you can easily highlight portfolios, resumes, work experience, and client testimonials. Optimized for performance and usability, Vorfolio enables you to create a polished website that reflects your personal identity and expertise in the Personal Portfolio CV Resume space. If you are looking for a scalable and professional solution, Vorfolio is a reliable Personal Portfolio CV Resume WordPress theme to showcase your work and grow your career opportunities.
 
 == Copyright ==
 
-Vorfolio, 2022 Jegstudio
+Vorfolio, 2026 Jegstudio
 Vorfolio is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
@@ -41,8 +40,8 @@ Self designed images under theme directory :
 /assets/img/Renovater-logo-client.svg
 /assets/img/intrace-logo-client.svg
 /assets/img/bg-gaussian-footer.webp
-Declaring these self designed images under GPL license version 2.0 =
-License URL: http://www.gnu.org/licenses/gpl-2.0.html
+Declaring these self designed images under GPL license version 3.0 =
+License URL: http://www.gnu.org/licenses/gpl-3.0.html
 
 Image for block pattern, Credit rawpixel.com
 License: CC0 1.0 Universal (CC0 1.0)
@@ -158,21 +157,26 @@ License URL: https://github.com/WPTT/webfont-loader/blob/master/LICENSE
 
 == Changelog ==
 
-= 1.0.4 - 2024-05-17 =
+= 1.1.0 =
+* Update theme dashboard
+* Remove unused gutenverse templates
+* Improved: Overall performance and SEO optimization
+
+= 1.0.4 =
 * Update Gutenverse template path
 * Remove unused core templates
 
-= 1.0.3 - 2024-03-21 =
+= 1.0.3 =
 * Update notice design
 
-= 1.0.2 - 2023-07-11 =
+= 1.0.2 =
 * Update theme dashboard
 * Fix post content inherit layout
 * Fix core templates for WordPress version below 6.1
 
-= 1.0.1 - 2023-02-03 =
+= 1.0.1 =
 * Update submenu issue
 * Fix few codes in review process
 
-= 1.0.0 - 2022-12-20 =
+= 1.0.0 =
 * Initial release

@@ -1,0 +1,139 @@
+.is-style-custombuttonone .wp-block-button__link {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    padding-top: 13px;
+    padding-right: 28px;
+    padding-bottom: 13px;
+    padding-left: 28px;
+    background-color: #00000000;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ffffff80;
+}
+
+.is-style-custombuttonone:hover .wp-block-button__link {
+    background-color: #205edf;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #205edf;
+}
+
+.is-style-custombuttontwo .wp-block-button__link {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    background-color: #2f6cfc;
+    border-radius: 30px;
+}
+
+.is-style-custombuttontwo:hover .wp-block-button__link {
+    background-color: #205edf;
+}
+
+.is-style-custombuttonthree .wp-block-button__link {
+    color: #2f6cfc;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    background-color: #ffffff;
+    border-radius: 30px;
+}
+
+.is-style-custombuttonthree:hover .wp-block-button__link {
+    color: #ffffff;
+    background-color: #2f6cfc;
+}
+
+
+.is-style-custombuttonfour .wp-block-button__link {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0px;
+    margin: 0px;
+    background-color: #00000000;
+}
+
+.is-style-custombuttonfour:hover .wp-block-button__link {
+    color: #2f6cfc;
+}
+
+.is-style-custombuttonfive .wp-block-button__link {
+    color: #2f6cfc;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0px;
+    margin: 0px;
+    background-color: #FFFFFF00;
+}
+
+.is-style-custombuttonfive:hover .wp-block-button__link {
+    color: var(#205edf);
+}
+
+.is-style-customboxshadow,
+.is-style-customboxshadowhover:hover {
+    box-shadow: 0px 3px 15px 0px #1010101a;
+}
+
+.is-style-customsociallinks .wp-block-social-link-anchor {
+    background-color: var(--wp--preset--color--theme-1);
+    color: #ffffff;
+    padding : 10px;
+}
+
+.is-style-customsociallinks .wp-block-social-link-anchor:hover {
+    background-color: var(--wp--preset--color--theme-6);
+    color: #ffffff;
+    padding : 10px;
+}
+
+.has-gradient-one-gradient-background {
+    background: linear-gradient(230deg, #430751 0%, #092350 36%);
+}
+
+.has-gradient-two-gradient-background {
+    background: linear-gradient(230deg, #5a1a81e6 0%, #0b1e4ce6 100%);
+}
+
+.vorfolio-comments-form .comment-form .comment-form-comment textarea,
+.vorfolio-comments-form .comment-form input:not(.wp-block-button__link) {
+    margin: 0 0 24px;
+    padding: 14px;
+    border: 1px solid #aeb7c4 !important;
+    border-radius: 10px 10px 10px 10px !important;
+    color: #1f283c !important;
+    transition: all .3s ease;
+}
+
+
+.vorfolio-comments-form .comment-form .form-submit .wp-block-button__link {
+    transition: all .3s ease;
+    text-transform: normal;
+    font-size: 16px !important;
+    font-family: “Roboto”, sans-serif !important;
+    font-weight: 500 !important;
+    line-height: 1 !important;
+    border-radius: 30px 30px 30px 30px;
+    padding: 15px 30px !important; 
+    background-color: #2f6cfc !important;
+    color: #ffffff !important;
+}
+
+.vorfolio-comments-form .comment-form .form-submit .wp-block-button__link:hover {
+     background-color: #205edf !important;
+}
